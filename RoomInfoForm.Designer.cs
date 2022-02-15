@@ -12,6 +12,7 @@ namespace Revit.SDK.Samples.Rooms.CS
          if (disposing && (components != null))
          {
             components.Dispose();
+
          }
          base.Dispose(disposing);
       }
